@@ -455,7 +455,7 @@ body {
 }
 
 .contact .info {
-  padding: var(--section-padding);
+  padding: var(--section-padding) 0;
   text-align: center;
 }
 
@@ -494,7 +494,7 @@ body {
 @media (max-width: 767px) {
   .contact .info .label,
   .contact .info .link {
-    font-size: 1.7rem;
+    font-size: 1.3rem;
   }
 }
 
