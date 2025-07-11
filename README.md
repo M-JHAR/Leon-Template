@@ -16,3 +16,4 @@ Features
 * Gained a deeper understanding of how HTML and CSS work together
 * Improved skills in responsive design and layout techniques
 * Learned to translate a visual design into a working web page
+
