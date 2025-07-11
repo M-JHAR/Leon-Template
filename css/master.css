@@ -192,7 +192,7 @@ body {
 /* Start Landing Page */
 
 .landing {
-  background-image: url("/images/hero.png");
+  background-image: url("images/hero.png");
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
